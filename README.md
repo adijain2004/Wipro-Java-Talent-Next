@@ -1,4 +1,4 @@
-# Wipro-TalentNext-FY24_25
+# Wipro-TalentNext-Java-2026
 
 | Topic                                         |
 |-----------------------------------------------|
